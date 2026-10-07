@@ -1,0 +1,18 @@
+# Папки, содержащие кэш и историю изменений
+**/History/
+**/__Previews/
+
+# Логи и отчёты проекта
+Project\ Logs*/
+Project\ Outputs*/
+debug.log
+Status\ Report.txt
+
+# Уведомления авто-конвертации и превью файлов
+*.PcbDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+
+# Файлы блокировок (иногда остаются после сбоя)
+.~lock.*
+**/*.ldb
